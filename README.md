@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on expanding my knowledge of C#  
+🔭 I’m currently working on expanding my knowledge of C#   
 
 🌱 I’m currently learning with Nashville Software School
 
